@@ -11,6 +11,7 @@ _This study is funded through Horizon 2020 research and innovation program (gran
 Research Council (grant ID FRIMED-BIO276010), Helse Vest’s Research Funding (grant ID HV912243), and Trond Mohn
 Research Foundation (grant ID BFS2018TMT07)._
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7454380.svg)](https://doi.org/10.5281/zenodo.7454380)
 
 ### Abstract
 
