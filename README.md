@@ -1,4 +1,4 @@
-`README.md`, `ore-psych-ml-ibs-base0.ipynb`, `ore-psych-ml-ibs-base0.ipynb`, `ore-psych-ml-ibs-loocv.ipynb` (ver. 2022-12-16) accompanying the paper
+`README.md`, `ore-psych-ml-ibs-base0.ipynb`, `ore-psych-ml-ibs-base0.ipynb`, `ore-psych-ml-ibs-loocv.ipynb` (ver. 2022-12-18) accompanying the paper
 
 
 # A psychological symptom based machine learning model for clinical evaluation of irritable bowel syndrome
