@@ -3,3 +3,7 @@
 
 # Mac OS
 .DS_Store
+
+# My own private notebooks and data
+MyNotebooks/
+
